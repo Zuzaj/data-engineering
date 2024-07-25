@@ -1,7 +1,7 @@
-# Data Engineering
+# Data Engineering 
 
 This repository contains full Data Engineering course from Computer Science and Intelligent Systems, AGH.
-Each lab tests the understanding and practical usage of the different Data Engineering field. Each folder contains .pdf file with exercises and .py file with provided solutions.
+Each lab tests the understanding and practical usage of the different field from Data Engineering domain. Each folder contains .pdf file with exercises and .py file with provided solutions.
 
 ## Table of contents
 
